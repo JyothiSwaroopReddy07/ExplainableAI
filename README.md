@@ -3,7 +3,6 @@ Making neural networks more interpretable, for research and art.
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQa42l727MXrntn6ZyDVj0kDRh3QEu3k?usp=sharing)
-[![build](https://github.com/JyothiSwaroopReddy07/ExplainableAI/actions/workflows/main.yml/badge.svg)](https://github.com/JyothiSwaroopReddy07/ExplainableAI/actions/workflows/main.yml)
 [![codecov](https://codecov.io/gh/Mayukhdeb/torch-dreams/branch/master/graph/badge.svg?token=krU6dNleoJ)](https://codecov.io/gh/JyothiSwaroopReddy07/ExplainableAI)
 <!-- [![](https://img.shields.io/twitter/url?label=Docs&style=flat-square&url=https%3A%2F%2Fapp.gitbook.com%2F%40mayukh09%2Fs%2Ftorch-dreams%2F)](https://app.gitbook.com/@mayukh09/s/torch-dreams/) -->
 
