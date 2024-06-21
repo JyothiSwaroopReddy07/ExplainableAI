@@ -7,7 +7,7 @@ Making neural networks more interpretable, for research and art.
 <!-- [![](https://img.shields.io/twitter/url?label=Docs&style=flat-square&url=https%3A%2F%2Fapp.gitbook.com%2F%40mayukh09%2Fs%2Ftorch-dreams%2F)](https://app.gitbook.com/@mayukh09/s/torch-dreams/) -->
 
 
-<img src = "https://github.com/JyothiSwaroopReddy07/ExplainableAI/blob/master/images/banner_segmentation_model.png?raw=true">
+<img src = "https://github.com/JyothiSwaroopReddy07/ExplainableAI/blob/8bda2b88720ad63c820e65e998ea10af7a67b026/images/banner_segmentation_model.png?raw=true">
 
 ```
 pip install torch-dreams 
